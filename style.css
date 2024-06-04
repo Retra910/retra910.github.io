@@ -1,0 +1,28 @@
+body { 
+
+    background-image: url(imagenes/fnaf\ ar\ background.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+
+.encabezado{ 
+    background-image: url(imagenes/fnaf3-troll.ico);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    height: 20vh;
+}
+
+table { 
+
+    background-image: url(imagenes/fondo\ rojo.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
